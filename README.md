@@ -6,7 +6,7 @@ If you encounter an issue with any of the components that we install, please rep
 
 - [Visual Studio Code](https://github.com/microsoft/vscode)
 - [Python extension for Visual Studio Code](https://github.com/microsoft/vscode-python)
-- [Pylance extension for Visual Studio Code](https://github.com/microsoft/vscode-pylance)
+- [Pylance extension for Visual Studio Code](https://github.com/microsoft/pylance-release)
 - [Gather extension for Visual Studio Code](https://github.com/microsoft/vscode-gather)
 
 ## Getting started
