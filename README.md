@@ -27,7 +27,7 @@ With the Coding Pack for Python it’s easy to get started.
 1. Launch Visual Studio Code and start coding!
 
 This project is intended to be used for educational scenarios, and 
-<b> is currently on preview mode</b>. If you try it out, please give us your feedback through this [survey](https://aka.ms/coding-pack-for-python-survey)!
+is currently in **public preview**. If you try it out, please let us know what you think using our [survey](https://aka.ms/coding-pack-for-python-survey)!
 
 ## What’s installed by the Coding Pack for Python
 
